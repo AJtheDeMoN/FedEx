@@ -1,0 +1,34 @@
+1)Understand the Scenario
+The train sounds its horn at point X.
+An observer at point Y hears the sound.
+The observer moves to point W at a constant speed a m/s for b seconds.
+
+2)Determine Distances
+Calculate the distance the observer travels to reach point W.
+Use the speed a and time b to find the distance:
+  \[
+  \text{Distance} = a \times b
+  \]
+
+3) Calculate Sound Distance at W
+The sound travels from X to W in two seconds.
+Use the speed of sound (343 m/s) to find the distance:
+  \[
+  \text{Distance of sound in 2 seconds} = 343 \times 2
+  \]
+
+4) Determine Total Distance
+The total distance d the sound travels from X to Y is the sum of the observer's distance to W and the sound's distance:
+  \[
+  \text{Total Distance} = \sqrt{(a\times b)^2 + (2\times 343)^2}
+  \]
+
+5) Calculate Time t
+Use the total distance and the speed of sound to find the time it took for the sound to travel:
+  \[
+  t = \frac{\text{Total Distance}}{343}
+  \]
+
+
+
+

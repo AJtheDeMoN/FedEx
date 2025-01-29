@@ -1,0 +1,1 @@
+Construct a truth table for the expression ~(P∧(Q∨R∨S)) and compare it with another truth table (~ P∨~Q)∧(~P∨ ~R)∧(~P∨ ~ S). Deri∨e a logical relation between these two expressions. Denote 'True' and 'False' using binary ∨alues.
